@@ -1,0 +1,17 @@
+Package: build-essential
+Architecture: all
+Installed-Size: 4
+Maintainer: @termux
+Version: 4.1
+Homepage: https://github.com/termux/termux-packages
+Depends: clang, make, pkg-config
+Recommends: autoconf, automake, bc, bison, cmake, flex, gperf, libtool, m4
+Suggests: git, golang, nodejs, patchelf, proot, python, ruby, rust, subversion
+Description: A metapackage that installs essential development tools
+Filename: dists/stable/main/binary-all/build-essential_4.1_all.deb
+Size: 808
+MD5Sum: 8c278a2d0cc4bc1090f4fcd15632e7d9
+SHA1: 3b6c8ae2474c406edf827800e8546a126df19469
+SHA256: deec79ad411c67f37e31610cec01d42e3e5a3f5497d96ff763435b48fa5b2196
+SHA512: 01b838c3853955441cb79452e36251332d56ddf3e63e6a073674f134b260d06f77ef71565656f68558b11aa2119607d4d02f42e68e1074c65ccda60ee5990797
+
